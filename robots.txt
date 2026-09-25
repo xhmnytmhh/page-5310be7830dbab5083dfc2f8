@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.weilaijiafc.com/sitemap.xml
